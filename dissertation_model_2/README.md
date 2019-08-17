@@ -4,4 +4,4 @@
 
 Structure:
 
-![image](https://github.com/ccalvin97/calvin-s-project/blob/master/dissetation_model2/xlnet_structure.png)
+![image](https://github.com/ccalvin97/calvin-s-project/blob/master/dissertation_model_2/xlnet_structure.png)
