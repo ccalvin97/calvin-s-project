@@ -12,7 +12,7 @@ Update
 2. NLP Personality System(Production Level) - Oleeo UK    
 •	Model 1 - Glove + Global & Soft Attention + Bi-LSTM, 31d multi-labels - RMSE 0.83  
 •	Model 2 - XLNet Fine Tune + Downstream, 31d multi-labels regression - RMSE 0.80  
-•	Model 3 - XLNet Fine Tune + Downstream,  1d multi-labels regression - RMSE 0.5    
+•	Model 3 - XLNet Fine Tune + Downstream,  1d single label regression - RMSE 0.5    
 
 3. Sentiment Classification NLP  
 •	Compared with different structures, incl. Bi-LSTM + Global Soft Attention and SVM – Acc 0.771  
