@@ -1214,11 +1214,6 @@ def main(_):
         with tf.gfile.Open(pearson_path, "w") as fp:
             json.dump(pearson_res, fp, indent=4)
             
-#         predict_json_path = os.path.join(predict_dir, "{}.label_results.json".format(
-#             task_name))
-
-#         with tf.gfile.Open(predict_json_path, "w") as fp:
-#             json.dump(label_results, fp, indent=4)
 
 
 if __name__ == "__main__":
