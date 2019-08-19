@@ -14,7 +14,9 @@ Update
 •	Model 2 - XLNet Fine Tune + Downstream, 31d multi-labels regression - RMSE 0.80  
 •	Model 3 - XLNet Fine Tune + Downstream,  1d single label regression - RMSE 0.5    
 <center class="half">
-![image](https://github.com/ccalvin97/calvin-s-project/blob/master/dissertation_model_1/Untitled%20Diagram%20(1).png)![image](https://github.com/ccalvin97/calvin-s-project/blob/master/dissertation_model_1/Untitled%20Diagram%20(2).png)
+<img src="https://github.com/ccalvin97/calvin-s-project/blob/master/dissertation_model_1/Untitled%20Diagram%20(1).png" width="200"/><img src="https://github.com/ccalvin97/calvin-s-project/blob/master/dissertation_model_1/Untitled%20Diagram%20(2).png" width="200"/><img src="https://img-blog.csdn.net/20180612152100203?
+</figure>
+
 
 3. Sentiment Classification NLP  
 •	Compared with different structures, incl. Bi-LSTM + Global Soft Attention and SVM – Acc 0.771  
