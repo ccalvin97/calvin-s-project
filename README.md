@@ -15,7 +15,7 @@ Update
 •	Model 3 - XLNet Fine Tune + Downstream,  1d single label regression - RMSE 0.5    
 
 <div align="center">
-<img src="https://github.com/ccalvin97/calvin-s-project/blob/master/dissertation_model_1/Screen%20Shot%202019-08-19%20at%2010.23.50%20PM.png" width="420" alt= "Business Application1" /><img src="https://github.com/ccalvin97/calvin-s-project/blob/master/dissertation_model_1/Screen%20Shot%202019-08-19%20at%2010.24.04%20PM.png" width="420" alt= "Business Application2" />
+<img src="https://github.com/ccalvin97/calvin-s-project/blob/master/dissertation_model_1/111.png" width="420" alt= "Business Application1" /><img src="https://github.com/ccalvin97/calvin-s-project/blob/master/dissertation_model_1/222.png" width="420" alt= "Business Application2" />
 </div>
 
 
