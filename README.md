@@ -13,7 +13,7 @@ Update
 •	Model 1 - Glove + Global & Soft Attention + Bi-LSTM, 31d multi-labels - RMSE 0.83  
 •	Model 2 - XLNet Fine Tune + Downstream, 31d multi-labels regression - RMSE 0.80  
 •	Model 3 - XLNet Fine Tune + Downstream,  1d single label regression - RMSE 0.5    
-## Due to the confidential code from Oleeo, these files are examples for the projects . 
+Due to the confidential code from Oleeo, these files are examples for the projects   
 
 <div align="center">
 <img src="https://github.com/ccalvin97/calvin-s-project/blob/master/dissertation_model_1/111.png" width="420" alt= "Business Application1" /><img src="https://github.com/ccalvin97/calvin-s-project/blob/master/dissertation_model_1/222.png" width="420" alt= "Business Application2" />
