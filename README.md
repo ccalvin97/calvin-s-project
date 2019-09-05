@@ -14,7 +14,7 @@ Update
 (Due to the confidential code from Oleeo, these files are examples for the projects)   
 
 <div align="center">
-<img src="https://github.com/ccalvin97/calvin-s-project/blob/master/dissertation_model_1/111.png" width="420" alt= "Business Application1" /><img src="https://github.com/ccalvin97/calvin-s-project/blob/master/dissertation_model_1/222.png" width="420" alt= "Business Application2" />
+<img src="https://github.com/ccalvin97/calvin-s-project/blob/master/NLP%20Personality%20System-Oleeo%20UK/dissertation_model_1/111.png" width="420" alt= "Business Application1" /><img src="https://github.com/ccalvin97/calvin-s-project/blob/master/dissertation_model_1/222.png" width="420" alt= "Business Application2" />
 </div>
 
 
