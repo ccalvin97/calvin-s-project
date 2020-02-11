@@ -4,12 +4,13 @@ Update
 
 1. Machine Learning Internship in Factmata UK  
 (Due to intellectual property, the code cannot be uploaded)  
-Project: NLP Stance Detection system in limited training data  
+
+Project: NLP Stance Detection system in limited training data   
 - Visualisation through python packages, such as dimension reduction  
-- Text Mining 
-- Paper research of semi-supervised learning, BERT, Variational Autoencoder Classifier, Data Augmentation
-- Implementation of new models from latest papers, including word- based entity
-embedding BERT model, sentence-based BERT model, BERT LM unsupervised learning and so on  
+- Text Mining  
+- Paper research of semi-supervised learning, BERT, Variational Autoencoder Classifier, Data Augmentation  
+- Implementation of new models from latest papers, including word- based entity  
+embedding BERT model, sentence-based BERT model, BERT LM unsupervised learning and so on   
 
 
 2. Named Entity Recognition    
