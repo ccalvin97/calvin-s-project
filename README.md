@@ -2,7 +2,7 @@
 Update     
 2020/02/11
 
-1. NLP Stance Detection system in limited training data - Factmata UK  
+1. NLP Stance Detection System in limited training data - Factmata UK  
 (Due to intellectual property, the code cannot be uploaded)   
 •	Visualisation through python packages, such as dimension reduction tSNE  
 •	Text Mining  
