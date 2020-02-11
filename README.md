@@ -4,7 +4,7 @@ Update
 
 1. NLP Stance Detection system in limited training data - Factmata UK  
 (Due to intellectual property, the code cannot be uploaded)   
-•	Visualisation through python packages, such as dimension reduction  
+•	Visualisation through python packages, such as dimension reduction tSNE
 •	Text Mining  
 •	Paper research of semi-supervised learning, BERT, Variational Autoencoder Classifier, Data Augmentation  
 •	Implementation of new models from latest papers, including word- based entity  
