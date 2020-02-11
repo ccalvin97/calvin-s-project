@@ -3,8 +3,8 @@ Update
 2020/02/11
 
 1. Machine Learning Internship in Factmata UK  
-(Due to intellectual property, the code cannot be uploaded)
-Project: NLP Stance Detection system in limited training data
+(Due to intellectual property, the code cannot be uploaded)   
+Project: NLP Stance Detection system in limited training data   
 •	Visualisation through python packages, such as dimension reduction  
 •	Text Mining  
 •	Paper research of semi-supervised learning, BERT, Variational Autoencoder Classifier, Data Augmentation  
