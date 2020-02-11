@@ -4,11 +4,10 @@ Update
 
 1. NLP Stance Detection System in limited training data - Factmata UK  
 (Due to intellectual property, the code cannot be uploaded)   
-•	Visualisation through python packages, such as dimension reduction tSNE  
+•	Visualisation through python packages, such as dimension reduction - tSNE  
 •	Text Mining  
 •	Paper research of semi-supervised learning, BERT, Variational Autoencoder Classifier, Data Augmentation  
-•	Implementation of new models from latest papers, including Spacy NER model, BERT Fine-tune model, word- based entity  
-embedding BERT model, sentence-based BERT model, BERT LM unsupervised learning and so on   
+•	Implementation of new models from latest papers, including Spacy NER model, BERT Fine-tune model, word- based entity embedding BERT model, sentence-based BERT model, BERT LM unsupervised learning and so on   
 
 
 2. Named Entity Recognition    
