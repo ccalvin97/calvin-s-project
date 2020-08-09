@@ -1,12 +1,13 @@
-# Stock Crawler - Day based
+# Stock Crawler(TAIWAN) - Day based
 
 ## Programme 1:  
-crawl.py - Stock Price Crawler, date based stock crawler  
+crawl.py - Taiwan Stock Price Crawler, date based stock crawler  
 post_process.py - post process for the crawler, cleaning duplicated data  
 
 ## Programme 2:  
 finance.py - financial season report  
-combined.py - Combined financial data and stock price dataset  
+combined.py - Combined financial data and stock price dataset(TBD).   
+other.py - Other correlated data such as EU & USA data for input resources(TBD).  
 
 ## Programme 3:  
 overview_stock.py - Download stock list and filter files in order to have latest stock list files  
