@@ -1,4 +1,0 @@
-runtime: custom
-env: flex
-readiness_check:
-    app_start_timeout_sec: 600
