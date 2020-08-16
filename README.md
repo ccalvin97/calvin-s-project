@@ -1,11 +1,18 @@
 # Project List:
 Update     
-2020/08/10  
+2020/08/16  
 
 1. Machine Learning Portfolio Design - Entrepreneurship Project  
 (Due to the confidential issues, only some codes have been uploaded)   
 •	Web Crawler for Taiwan Stock including financial report & individual stock report    
 •	Individual Research for ML Stock Price Prediction - LSTM, Seq2Seq, Attention, WGAN-GP, WGAN, GAN  
+
+<div align="center">
+<img src="https://github.com/ccalvin97/fund_design/blob/master/GAN%20and%20VAE/WGAN-GP/wgan-gp_loss.png" width="420" alt= "Loss Plot" />
+</div>
+<div align="center">
+<img src="https://github.com/ccalvin97/fund_design/blob/master/GAN%20and%20VAE/WGAN-GP/wgan-gp_distribution_plot.png" width="420" alt= "Distribution between Real and Fake" />
+</div>   
 
 2. NLP Stance Detection System in limited training data - Factmata UK  
 (Due to intellectual property, the code cannot be uploaded)   
