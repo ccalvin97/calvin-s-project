@@ -35,7 +35,7 @@ Company Description:
 Implementation of _Generative Adversarial Network_ with a MLP generator and discriminator.   
 Paper: https://arxiv.org/abs/1406.2661. 
 
-**Conclusion**: It is hard to train the model in order to control both discriminator and generator and Mode Collapse will eastily happen. Please see the picture below.  
+**Conclusion**: It is hard to train the model in order to control both discriminator and generator and Mode Dropping will eastily happen. Please see the picture below.  
 
 **Results**   
 <div align="center">
