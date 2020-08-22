@@ -7,7 +7,7 @@ Update
 •	Web Crawler for Taiwan Stock including financial report & individual stock report    
 •	Individual Research for ML Stock Price Prediction - LSTM, Seq2Seq, Attention, WGAN-GP, WGAN, GAN  
 
-[Code](GAN and VAE)
+[Code](GAN and VAE/)
 
 <div align="center">
 <img src="https://github.com/ccalvin97/fund_design/blob/master/GAN%20and%20VAE/WGAN-GP/wgan-gp_loss.png" width="420" alt= "Loss Plot" />
