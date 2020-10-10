@@ -5,7 +5,7 @@ Update
 1. Machine Learning Portfolio Design - Entrepreneurship Project  
 (Due to the confidential issues, only some codes have been uploaded)   
 •	Web Crawler for Taiwan Stock including financial report & individual stock report    
-•	Individual Research for ML Stock Price Prediction - LSTM, Seq2Seq, Attention, WGAN-GP, WGAN, GAN  
+•	Research for ML Stock Price Prediction - LSTM, Seq2Seq, Attention, WGAN-GP, WGAN, GAN  
 [Code Link - GAN](https://github.com/ccalvin97/calvin-s-project/tree/master/GAN%20and%20VAE)  
 [Code Link - Crawler](https://github.com/ccalvin97/calvin-s-project/tree/master/entrepreneurship_open_source)   
 
