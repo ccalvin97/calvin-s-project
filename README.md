@@ -6,8 +6,8 @@ Update
 (Due to the confidential issues, only some codes have been uploaded)   
 •	Web Crawler for Taiwan Stock including financial report & individual stock report    
 •	Research for ML Stock Price Prediction - LSTM, Seq2Seq, Attention, WGAN-GP, WGAN, GAN  
-[Code Link - GAN](https://github.com/ccalvin97/calvin-s-project/tree/master/GAN%20and%20VAE)  
-[Code Link - Crawler](https://github.com/ccalvin97/calvin-s-project/tree/master/entrepreneurship_open_source)   
+[Code Link - GAN, Crawler, A3C Trading Robot](https://github.com/ccalvin97/Portfolio-Design)  
+
 
 <div align="center">
 <img src="https://github.com/ccalvin97/fund_design/blob/master/GAN%20and%20VAE/WGAN-GP/wgan-gp_loss.png" width="420" alt= "Loss Plot" />
