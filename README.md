@@ -6,7 +6,7 @@ Update
 (Due to the confidential issues, only some codes have been uploaded)   
 •	Web Crawler for Taiwan Stock including financial report & individual stock report    
 •	Research for ML Stock Price Prediction - LSTM, Seq2Seq, Attention, WGAN-GP, WGAN, GAN  
-[Code Link - GAN, Crawler, A3C Trading Robot](https://github.com/ccalvin97/Portfolio-Design)  
+[Code Link - GAN, Crawler, A3C Trading Robot](https://github.com/ccalvin97/Portfolio-Design-TW)  
 
 
 <div align="center">
@@ -30,7 +30,7 @@ Update
 3. Named Entity Recognition    
 •	Compared with different NN structures, incl. Bi-LSTM, CRF – F1 score 83.2% and 96%   
 •	Utilised different embedding function, incl. Glove and Tensorflow Elmo  
-[Code Link](https://github.com/ccalvin97/calvin-s-project/tree/master/NLP_entity%20recognition)   
+[Code Link](https://github.com/ccalvin97/History-Project/tree/master/NLP_entity%20recognition)   
 
 
 4. NLP Personality System(Production Level) - Oleeo UK    
@@ -38,7 +38,7 @@ Update
 •	Model 2 - XLNet Fine Tune + Downstream, 31d multi-labels regression - RMSE 0.80  
 •	Model 3 - XLNet Fine Tune + Downstream,  1d single label regression - RMSE 0.5    
 (Due to the confidential code from Oleeo, these files are examples for the projects)   
-[Code Link](https://github.com/ccalvin97/calvin-s-project/tree/master/NLP%20Personality%20System-Oleeo%20UK)   
+[Code Link](https://github.com/ccalvin97/History-Project/tree/master/NLP%20Personality%20System-Oleeo%20UK)   
 
 
 <div align="center">
@@ -48,7 +48,7 @@ Update
 
 5. Sentiment Classification NLP  
 •	Compared with different structures, incl. Bi-LSTM + Global Soft Attention and SVM – Acc 0.771  
-[Code Link](https://github.com/ccalvin97/calvin-s-project/tree/master/NLP_sentiment%20classification)  
+[Code Link](https://github.com/ccalvin97/History-Project/tree/master/NLP_sentiment%20classification)  
 ![image](https://github.com/ccalvin97/kaggle2/blob/master/NLP_sentiment%20classification/poster.gif) 
 
 6. Speech Recognition Industrial Project  
