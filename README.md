@@ -42,14 +42,14 @@ Update
 
 
 <div align="center">
-<img src="https://github.com/ccalvin97/calvin-s-project/blob/master/NLP%20Personality%20System-Oleeo%20UK/dissertation_model_1/111.png" width="420" alt= "Business Application1" /><img src="https://github.com/ccalvin97/calvin-s-project/blob/master/NLP%20Personality%20System-Oleeo%20UK/dissertation_model_1/222.png" width="420" alt= "Business Application2" />
+<img src="https://github.com/ccalvin97/History-Project/blob/master/NLP%20Personality%20System-Oleeo%20UK/dissertation_model_1/111.png" width="420" alt= "Business Application1" /><img src="https://github.com/ccalvin97/History-Project/blob/master/NLP%20Personality%20System-Oleeo%20UK/dissertation_model_1/222.png" width="420" alt= "Business Application2" />
 </div>
 
 
 5. Sentiment Classification NLP  
 •	Compared with different structures, incl. Bi-LSTM + Global Soft Attention and SVM – Acc 0.771  
 [Code Link](https://github.com/ccalvin97/History-Project/tree/master/NLP_sentiment%20classification)  
-![image](https://github.com/ccalvin97/kaggle2/blob/master/NLP_sentiment%20classification/poster.gif) 
+![image](https://github.com/ccalvin97/History-Project/blob/master/NLP_sentiment%20classification/poster.gif) 
 
 6. Speech Recognition Industrial Project  
 •	Utilised Bi-LSTM to create language speech recognition system transforming audio data to text  
