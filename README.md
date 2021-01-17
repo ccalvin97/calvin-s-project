@@ -1,6 +1,5 @@
-# Project List:
-Update     
-2020/08/16  
+# Project List:     
+2021/01/11  
 
 1. Machine Learning Portfolio Design - Entrepreneurship Project  
 (Due to the confidential issues, only some codes have been uploaded)   
