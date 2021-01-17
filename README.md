@@ -10,10 +10,10 @@ Update
 
 
 <div align="center">
-<img src="https://github.com/ccalvin97/fund_design/blob/master/GAN%20and%20VAE/WGAN-GP/wgan-gp_loss.png" width="420" alt= "Loss Plot" />
+<img src="https://github.com/ccalvin97/Portfolio-Design-TW/blob/main/RL/graph/plt__signal.png" width="420" alt= "Loss Plot" />
 </div>
 <div align="center">
-<img src="https://github.com/ccalvin97/fund_design/blob/master/GAN%20and%20VAE/WGAN-GP/wgan-gp_distribution_plot.png" width="420" alt= "Distribution between Real and Fake" />
+<img src="https://github.com/ccalvin97/Portfolio-Design-TW/blob/main/RL/graph/training_plot.png" width="420" alt= "Distribution between Real and Fake" />
 </div>   
 
 
