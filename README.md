@@ -7,6 +7,7 @@ Contribution from kuancalvin2016@gmail.com
 
 
 
+
 1. Machine Learning Portfolio Design - Entrepreneurship Project  
 (Due to the confidential issues, only some codes have been uploaded)   
 •	Web Crawler for Taiwan Stock including financial report & individual stock report    
