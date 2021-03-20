@@ -16,14 +16,14 @@ Contribution from kuancalvin2016@gmail.com
 [Code Link - GAN, Crawler, A3C Trading Robot](https://github.com/ccalvin97/Portfolio-Design-TW)  
 
 
-<div align="center">
+<div align="left">
 <img src="https://github.com/ccalvin97/Portfolio-Design-TW/blob/main/RL/graph/plt__signal.png" width="900" alt= "Loss Plot" />
 </div>
-<div align="center">
+<div align="left">
 <img src="https://github.com/ccalvin97/Portfolio-Design-TW/blob/main/RL/graph/training_plot.png" width="900" alt= "Distribution between Real and Fake" />
 </div>   
 
-
+&emsp;  
 
 2. NLP Stance Detection System in limited training data - Factmata UK  
 (Due to intellectual property, the code cannot be uploaded)   
@@ -48,7 +48,7 @@ Contribution from kuancalvin2016@gmail.com
 [Code Link](https://github.com/ccalvin97/History-Project/tree/master/NLP%20Personality%20System-Oleeo%20UK)   
 
 
-<div align="center">
+<div align="left">
 <img src="https://github.com/ccalvin97/History-Project/blob/master/NLP%20Personality%20System-Oleeo%20UK/dissertation_model_1/111.png" width="420" alt= "Business Application1" /><img src="https://github.com/ccalvin97/History-Project/blob/master/NLP%20Personality%20System-Oleeo%20UK/dissertation_model_1/222.png" width="420" alt= "Business Application2" />
 </div>
 
