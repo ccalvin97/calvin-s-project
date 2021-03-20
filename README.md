@@ -34,13 +34,13 @@ Contribution from kuancalvin2016@gmail.com
 
 
 
-3. Named Entity Recognition    
+* Named Entity Recognition    
 •	Compared with different NN structures, incl. Bi-LSTM, CRF – F1 score 83.2% and 96%   
 •	Utilised different embedding function, incl. Glove and Tensorflow Elmo  
 [Code Link](https://github.com/ccalvin97/History-Project/tree/master/NLP_entity%20recognition)   
 
 
-4. NLP Personality System(Production Level) - Oleeo UK    
+* NLP Personality System(Production Level) - Oleeo UK    
 •	Model 1 - Glove + Global & Soft Attention + Bi-LSTM, 31d multi-labels - RMSE 0.83  
 •	Model 2 - XLNet Fine Tune + Downstream, 31d multi-labels regression - RMSE 0.80  
 •	Model 3 - XLNet Fine Tune + Downstream,  1d single label regression - RMSE 0.5    
@@ -53,7 +53,7 @@ Contribution from kuancalvin2016@gmail.com
 </div>
 
 
-5. Sentiment Classification NLP  
+* Sentiment Classification NLP  
 •	Compared with different structures, incl. Bi-LSTM + Global Soft Attention and SVM – Acc 0.771  
 [Code Link](https://github.com/ccalvin97/History-Project/tree/master/NLP_sentiment%20classification)  
 ![image](https://github.com/ccalvin97/History-Project/blob/master/NLP_sentiment%20classification/poster.gif) 
