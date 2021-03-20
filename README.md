@@ -9,7 +9,7 @@ Contribution from kuancalvin2016@gmail.com
 &emsp; 
 
    
-Machine Learning Portfolio Design - Entrepreneurship Project  
++ Machine Learning Portfolio Design - Entrepreneurship Project  
 (Due to the confidential issues, only some codes have been uploaded)   
 •	Web Crawler for Taiwan Stock including financial report & individual stock report    
 •	Research for ML Stock Price Prediction - LSTM, Seq2Seq, Attention, WGAN-GP, WGAN, GAN  
