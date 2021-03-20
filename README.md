@@ -25,7 +25,7 @@ Contribution from kuancalvin2016@gmail.com
 
 &emsp;  
 
-2. NLP Stance Detection System in limited training data - Factmata UK  
+* NLP Stance Detection System in limited training data - Factmata UK  
 (Due to intellectual property, the code cannot be uploaded)   
 •	Visualisation through python packages, such as dimension reduction - tSNE  
 •	Text Mining  
@@ -58,35 +58,34 @@ Contribution from kuancalvin2016@gmail.com
 [Code Link](https://github.com/ccalvin97/History-Project/tree/master/NLP_sentiment%20classification)  
 ![image](https://github.com/ccalvin97/History-Project/blob/master/NLP_sentiment%20classification/poster.gif) 
 
-6. Speech Recognition Industrial Project  
+* Speech Recognition Industrial Project  
 •	Utilised Bi-LSTM to create language speech recognition system transforming audio data to text  
 •	Audio → MFCC → NN → Target: CTC Loss (Beam Search, Edit Distance)  
 [Code Link](https://github.com/ccalvin97/calvin-s-project/tree/master/audio%20recognition%20project)   
 
 
-7. Kaggle - House Prices: Advanced Regression Techniques   
+* Kaggle - House Prices: Advanced Regression Techniques   
 •	Achieved top 6% and accuracy of 0.11 for the RMSE  
 •	DNN, Linear Regression & Stacking Model (Lasso, Elastic Net, SVR, Kernel Ridge, Bayesian Ridge, Ridge)   
 [Code Link](https://github.com/ccalvin97/calvin-s-project/tree/master/akaggle/house_price_done%20(RMSE%200.11)%20%20httpswww.kaggle.comchouse-prices-advanced-regression-techniques)  
 
-8. Kaggle - Histopathologic Cancer Detection  
+* Kaggle - Histopathologic Cancer Detection  
 •	Two CNN structures, incl. Fastai DenseNet 201 & NASNet + global max/average pooling – Acc 95.9%  
 [Code Link](https://github.com/ccalvin97/calvin-s-project/tree/master/akaggle/cancer_kaggle)   
 
-9. Machine Learning Mobile Application – Second Hand Car Selling  
+* Machine Learning Mobile Application – Second Hand Car Selling  
 •	Model 1: Utilised NN to create a price prediction system  
 •	Model 2: Utilised Latent Dirichlet Allocation to create a topic system  
 •	Model 3: Utilised Google Cloud Vision API to create an image recognition system  
 •	Workflow: Created ML models (Python) → Imported 3 models to API → Created a mobile application  
 [Code Link](https://github.com/ccalvin97/calvin-s-project/tree/master/Second%20hand%20car%20selling/car-price-prediction-regression--master)   
 
-
-10. Machine Learning Startup Project – Crime Warning System   
+* Machine Learning Startup Project – Crime Warning System   
 •	Market Demand: Theft offences occurred at a rate of 45.8 per 1,000 population in 2017 in London   
 •	Workflow: Dimension Reduction → ARIMA & LSTM → Validation → Output Prediction  
 •	Function: Once users walks on a road at a specific time, they will be reminded if the time is dangerous  
 
-11. Kaggle – Titanic Machine Learning from Disaster   
+* Kaggle – Titanic Machine Learning from Disaster   
 •	Achieved top 2% and accuracy of 83.7% for the prediction of the data  
 •	Utilised 2 methods to predict labels respectively, incl. DNN & Random Forest  
 [Code Link](https://github.com/ccalvin97/calvin-s-project/tree/master/akaggle/Titanic_done%20(83.7%25)%20%20httpswww.kaggle.comctitanic)    
