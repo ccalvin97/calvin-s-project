@@ -5,7 +5,7 @@ Contribution from kuancalvin2016@gmail.com
 #### Computer Vision Research - Semantic Segmentation in House Detection (2021)[Code Link](https://github.com/ccalvin97/CV-Semantic-Segmentation-House)  
 
 <div align="left"><img src="https://github.com/ccalvin97/CV-Semantic-Segmentation/blob/master/Picture/austin16_20_.png" width="250"/><img src="https://github.com/ccalvin97/CV-Semantic-Segmentation/blob/master/Picture/austin16_20_1.png" width="250"/></left><img src="https://github.com/ccalvin97/CV-Semantic-Segmentation/blob/master/Picture/austin16_20__hrnet.png" width="250"/></left>&emsp;  
-  
+&emsp; 
 
    
 1. Machine Learning Portfolio Design - Entrepreneurship Project  
