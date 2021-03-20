@@ -40,7 +40,7 @@ Contribution from kuancalvin2016@gmail.com
 [Code Link](https://github.com/ccalvin97/History-Project/tree/master/NLP_entity%20recognition)   
 
 
-* NLP Personality System(Production Level) - Oleeo UK    
+#### NLP Personality System(Production Level) - Oleeo UK    
 •	Model 1 - Glove + Global & Soft Attention + Bi-LSTM, 31d multi-labels - RMSE 0.83  
 •	Model 2 - XLNet Fine Tune + Downstream, 31d multi-labels regression - RMSE 0.80  
 •	Model 3 - XLNet Fine Tune + Downstream,  1d single label regression - RMSE 0.5    
