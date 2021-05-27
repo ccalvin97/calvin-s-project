@@ -9,7 +9,7 @@ Contribution from kuancalvin2016@gmail.com
 
 <img src="https://github.com/ccalvin97/CV-Object-Detection-House/blob/main/graph/111_1.png" width="400"/></center><img src="https://github.com/ccalvin97/CV-Object-Detection-House/blob/main/graph/111.png" width="400"/></center>   
 
-<div align="center"><img src="https://github.com/ccalvin97/CV-Object-Detection-House/blob/main/graph/222_1.png" width="400"/></center><img src="https://github.com/ccalvin97/CV-Object-Detection-House/blob/main/graph/222.png" width="400"/></center>  
+<img src="https://github.com/ccalvin97/CV-Object-Detection-House/blob/main/graph/222_1.png" width="400"/></center><img src="https://github.com/ccalvin97/CV-Object-Detection-House/blob/main/graph/222.png" width="400"/></center>  
 
 #### Computer Vision Research - Semantic Segmentation in House Detection (2021) [Code Link](https://github.com/ccalvin97/CV-Semantic-Segmentation-House)  
 
