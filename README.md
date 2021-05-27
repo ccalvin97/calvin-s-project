@@ -2,10 +2,16 @@
 2021/01/11  
 Contribution from kuancalvin2016@gmail.com   
 
-#### Computer Vision Research - Semantic Segmentation in House Detection (2021)[Code Link](https://github.com/ccalvin97/CV-Semantic-Segmentation-House)  
+#### Computer Vision Research - Semantic Segmentation in Land Classification (2021) [Code Link](https://github.com/ccalvin97/CV-Semantic-Segmentation-Land)   
+<img src="https://github.com/ccalvin97/CV-Semantic-Segmentation-Land/blob/main/graph/train.png" width="400"/><img src="https://github.com/ccalvin97/CV-Semantic-Segmentation-Land/blob/main/graph/test.png" width="4   
 
+#### Computer Vision Research - Object Detection in House Detection (2021) [Code Link](https://github.com/ccalvin97/CV-Object-Detection-House)   
 
-#### Computer Vision Research - Semantic Segmentation in House Detection (2021)[Code Link](https://github.com/ccalvin97/CV-Semantic-Segmentation-House)  
+<div align="center"><img src="https://github.com/ccalvin97/CV-Object-Detection-House/blob/main/graph/111_1.png" width="400"/></center><img src="https://github.com/ccalvin97/CV-Object-Detection-House/blob/main/graph/111.png" width="400"/></center>   
+
+<div align="center"><img src="https://github.com/ccalvin97/CV-Object-Detection-House/blob/main/graph/222_1.png" width="400"/></center><img src="https://github.com/ccalvin97/CV-Object-Detection-House/blob/main/graph/222.png" width="400"/></center>  
+
+#### Computer Vision Research - Semantic Segmentation in House Detection (2021) [Code Link](https://github.com/ccalvin97/CV-Semantic-Segmentation-House)  
 
 <div align="center"><img src="https://github.com/ccalvin97/CV-Semantic-Segmentation/blob/master/Picture/austin16_20_1.png" width="250"/><img src="https://github.com/ccalvin97/CV-Semantic-Segmentation/blob/master/Picture/austin16_20_.png" width="250"/></center><img src="https://github.com/ccalvin97/CV-Semantic-Segmentation/blob/master/Picture/austin16_20__hrnet.png" width="250"/></center>    
 
