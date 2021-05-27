@@ -3,7 +3,7 @@
 Contribution from kuancalvin2016@gmail.com   
 
 #### Computer Vision Research - Semantic Segmentation in Land Classification (2021) [Code Link](https://github.com/ccalvin97/CV-Semantic-Segmentation-Land)   
-<img src="https://github.com/ccalvin97/CV-Semantic-Segmentation-Land/blob/main/graph/train.png" width="400"/><img src="https://github.com/ccalvin97/CV-Semantic-Segmentation-Land/blob/main/graph/test.png" width="4   
+<img src="https://github.com/ccalvin97/CV-Semantic-Segmentation-Land/blob/main/graph/pred1.png" width="800"/>       
 
 #### Computer Vision Research - Object Detection in House Detection (2021) [Code Link](https://github.com/ccalvin97/CV-Object-Detection-House)   
 
